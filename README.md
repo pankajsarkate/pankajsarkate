@@ -39,15 +39,18 @@ md id="p95gjm"
 
 ---
 
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pankajsarkate&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pankajsarkate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsarkate&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsarkate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
+
+
 
 ---
 
@@ -61,13 +64,14 @@ md id="p95gjm"
 
 ---
 
-# 🏆 GitHub Trophies
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pankajsarkate&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=pankajsarkate&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
+
 
 ---
 
