@@ -1,4 +1,4 @@
-md id="p95gjm"
+
 <div align="center">
 
 # Hi 👋, I'm Pankaj Sarkate
@@ -40,7 +40,6 @@ md id="p95gjm"
 ---
 
 
-html id="r6b6x0"
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -66,14 +65,6 @@ html id="r6b6x0"
 </div>
 
 ---
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=pankajsarkate&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
 
 
 ---
