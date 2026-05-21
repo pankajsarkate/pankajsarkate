@@ -1,21 +1,13 @@
-````md
-<h1 align="center">
-  Hi 👋, I'm Pankaj Sarkate
-</h1>
-
-<h3 align="center">
-  🚀 Data Scientist | AI Engineer | GenAI Enthusiast
-</h3>
-
+```md id="p95gjm"
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=900&lines=Data+Scientist;AI+Engineer;Python+Developer;LLM+%7C+RAG+%7C+MLOps;Telecom+AI+%7C+Healthcare+AI;Building+Production-Ready+AI+Systems" />
+# Hi 👋, I'm Pankaj Sarkate
 
-</div>
+### 🚀 Data Scientist | AI Engineer | GenAI Enthusiast
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Data+Scientist;AI+Engineer;Python+Developer;LLM+%7C+RAG+%7C+MLOps;Telecom+AI+%7C+Healthcare+AI" />
 
-<div align="center">
+<br>
 
 ![](https://komarev.com/ghpvc/?username=pankajsarkate&style=for-the-badge&color=blueviolet)
 
@@ -29,30 +21,11 @@
 
 # 🧠 About Me
 
-```python
-class DataScientist:
-
-    def __init__(self):
-        self.name = "Pankaj Sarkate"
-        self.role = "Data Scientist & AI Engineer"
-
-        self.skills = [
-            "Machine Learning",
-            "Deep Learning",
-            "Generative AI",
-            "RAG Pipelines",
-            "MLOps",
-            "Telecom Analytics",
-            "Healthcare AI"
-        ]
-
-    def life_goal(self):
-        return "Building intelligent systems that solve real-world problems"
-
-me = DataScientist()
-
-print(me.life_goal())
-````
+- 🚀 Working as a **Data Scientist**
+- 🤖 Building projects in **AI, ML, GenAI & MLOps**
+- 📡 Interested in **Telecom AI & Healthcare AI**
+- 🧠 Exploring **LLMs, RAG Pipelines & AI Agents**
+- ⚡ Love building **production-ready systems**
 
 ---
 
@@ -70,9 +43,9 @@ print(me.life_goal())
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pankajsarkate&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pankajsarkate&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsarkate&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsarkate&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -92,7 +65,7 @@ print(me.life_goal())
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pankajsarkate&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pankajsarkate&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -100,11 +73,11 @@ print(me.life_goal())
 
 # 📌 Featured Projects
 
-🚀 Telecom Churn Prediction MLOps
-🤖 Indian Constitution RAG Pipeline
-🏥 Healthcare Data Engineering
-📊 Python DSA Practice Repository
-🧠 AI/ML End-to-End Projects
+- 📡 Telecom Churn Prediction MLOps
+- 🤖 Indian Constitution RAG Pipeline
+- 🏥 Healthcare Data Engineering
+- 📊 Python DSA Practice
+- 🧠 AI/ML End-to-End Projects
 
 ---
 
@@ -138,19 +111,9 @@ print(me.life_goal())
 
 ---
 
-# ⚡ Philosophy
-
-```yaml
-Code. Learn. Build. Repeat.
-
-Transforming data into intelligent systems.
-```
-
----
-
 <div align="center">
 
-### 🚀 Building AI That Matters
+### 🚀 Turning Data Into Intelligence
 
 </div>
 ```
