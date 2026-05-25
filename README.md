@@ -33,6 +33,42 @@
 - 🧠 Exploring **LLMs, RAG Pipelines & AI Agents**
 - ⚡ Love building **production-ready systems**
 
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+<!-- Main Tech Icons -->
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,django,docker,aws,postgresql,mysql,git,github,linux,vscode,pycharm" />
+
+<br><br>
+
+<!-- Data Science / ML Badges -->
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+
+<br><br>
+
+<!-- GenAI / LLM Stack -->
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-5A32A3?style=for-the-badge&logo=openai&logoColor=white" />
+
+<br><br>
+
+<!-- IDEs / Tools -->
+<img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+</div>
+
+---
+
 ---
 
 # 🚀 Tech Stack
