@@ -77,7 +77,7 @@ I enjoy solving real-world business problems using data, automation, and intelli
 
 To build intelligent data products that are:
 
-```text
+
 Accurate ✅
 Scalable ✅
 Explainable ✅
