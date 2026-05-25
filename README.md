@@ -34,9 +34,6 @@
 - ⚡ Love building **production-ready systems**
 
 
-
----
----
 ---
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -132,8 +129,6 @@ Business-focused ✅
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pankajsarkate&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
-
-
 
 
 
