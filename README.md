@@ -1,13 +1,17 @@
-
 <div align="center">
 
-# Hi 👋, I'm Pankaj Sarkate
+## Hi there 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pankaj+Sarkate;Data+Scientist;Machine+Learning+Engineer;Python+%7C+SQL+%7C+GenAI+%7C+MLOps" />
+<img height="200" src="./assets/pankaj-name.gif" />
 
-<img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+### I'm Pankaj Sarkate  
+Data Scientist | Python | Machine Learning | GenAI
 
 </div>
+
+
+
+
 
 
 ### 🚀 Data Scientist | AI Engineer | GenAI Enthusiast
