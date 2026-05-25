@@ -34,6 +34,58 @@
 - ⚡ Love building **production-ready systems**
 
 
+
+---
+---
+---
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### 🚀 Who I Am
+
+I am a **Data Scientist** with hands-on experience in **Python, Machine Learning, Data Analytics, GenAI, RAG, and Cloud-based ML solutions**.
+
+I enjoy solving real-world business problems using data, automation, and intelligent systems. My work focuses on building practical and production-ready solutions in domains like:
+
+- 📡 **Telecom Analytics**
+- 🏥 **Healthcare / Pharma Analytics**
+- 🏦 **Banking & Risk Analytics**
+- 🤖 **Generative AI / RAG Applications**
+- ⚙️ **ML Model Deployment & Automation**
+
+---
+
+### 🔭 Currently Working On
+
+- Building **end-to-end ML projects**
+- Creating **RAG-based AI Q/A assistants**
+- Learning **MLOps and production ML systems**
+- Improving **system design architecture** for Data Science interviews
+
+---
+
+### 🧠 What I’m Interested In
+
+- Machine Learning & Deep Learning  
+- Natural Language Processing  
+- Generative AI & LLMs  
+- RAG pipelines using LangChain and Hugging Face  
+- FastAPI-based ML deployment  
+- Cloud and MLOps workflows  
+- Data storytelling and dashboards  
+
+---
+
+### 🎯 My Goal
+
+To build intelligent data products that are:
+
+```text
+Accurate ✅
+Scalable ✅
+Explainable ✅
+Production-ready ✅
+Business-focused ✅
 ---
 
 # 🚀 Tech Stack
