@@ -77,12 +77,13 @@ I enjoy solving real-world business problems using data, automation, and intelli
 
 To build intelligent data products that are:
 
-
+```
 Accurate ✅
 Scalable ✅
 Explainable ✅
 Production-ready ✅
 Business-focused ✅
+```
 ---
 
 # 🚀 Tech Stack
