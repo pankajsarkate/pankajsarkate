@@ -2,6 +2,12 @@
 <div align="center">
 
 # Hi 👋, I'm Pankaj Sarkate
+## Hi there 👋
+<div align="center">
+  <img height="200" src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InByZXNzc3RhcnQiLCJ0ZXh0IjoiSEklMkMlMjBJJ20lMjBTdW1lZGgiLCJpYXQiOjE3Mjg5OTI4MzN9.xf_YW56n22Ng21hFAjU0NqBOFgR-LmmNMj5j9F77FnI"  />
+</div>
+
+###
 
 ### 🚀 Data Scientist | AI Engineer | GenAI Enthusiast
 
