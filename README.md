@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there 👋
+## 👋
 
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:7F00FF,100:00C9FF&text=Hi,%20I'm%20Pankaj%20Sarkate&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Data%20Scientist%20%7C%20Python%20%7C%20Machine%20Learning%20%7C%20GenAI&descSize=18&descAlign=50&descAlignY=58" 
