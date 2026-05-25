@@ -1,12 +1,7 @@
-<div align="center">
-
 ## Hi there 👋
 
-<img height="200" src="./assets/pankaj-name.gif" />
-
-### I'm Pankaj Sarkate  
-Data Scientist | Python | Machine Learning | GenAI
-
+<div align="center">
+  <img height="200" src="./assets/pankaj-name.gif" />
 </div>
 
 
