@@ -13,11 +13,7 @@
 
 
 
-### 🚀 Data Scientist | AI Engineer | GenAI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Data+Scientist;AI+Engineer;Python+Developer;LLM+%7C+RAG+%7C+MLOps;Telecom+AI+%7C+Healthcare+AI" />
-
-<br>
 
 ![](https://komarev.com/ghpvc/?username=pankajsarkate&style=for-the-badge&color=blueviolet)
 
