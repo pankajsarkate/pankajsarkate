@@ -69,17 +69,6 @@
 
 ---
 
----
-
-# 🚀 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,aws,mysql,git,github,linux,vscode" />
-
-</div>
-
----
 
 
 # 📊 GitHub Analytics
